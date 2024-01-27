@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm T. Mohamed Nadhim</h1>
-<h3 align="center">A full stack developer currently pursuing 3rd Year Electronics and Communication Engineering @ Sri Sivasubramaniya Nadar College of Engineering, Chennai!<a href="https://nadhim.github.io/professional-portfolio" target="_blank"> My Website!</a></h3>
+<h3 align="center">An aspiring full stack developer currently pursuing 3rd Year Electronics and Communication Engineering @ Sri Sivasubramaniya Nadar College of Engineering, Chennai!<a href="https://nadhim.github.io/professional-portfolio" target="_blank"> My Website!</a></h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nadhim&label=Profile%20views&color=0e75b6&style=flat" alt="nadhim" /> </p>
 
