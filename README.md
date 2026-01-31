@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm T. Mohamed Nadhim</h1>
-<h3 align="center">An aspiring full stack developer currently majoring in ECE with minors in AI & ML Technologies @ Sri Sivasubramaniya Nadar College of Engineering, Chennai!<a href="https://nadhim-portfolio.vercel.app/" target="_blank"> My Website!</a></h3>
+<h3 align="center">An ECE Major with Minor Specialization in AI & ML Technologies @ SSN College of Engineering!<a href="https://nadhim-portfolio.vercel.app/" target="_blank"> My Website!</a></h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nadhim&label=Profile%20views&color=0e75b6&style=flat" alt="nadhim" /> </p>
 
@@ -8,11 +8,7 @@
 - 🔭 I’m currently working on **Can't say, signed an NDA 🤫**
 
 - 🌱 I’m currently learning **Advanced AI Algorithms**
-
-- 👯 I’m looking to collaborate on **AI/ML and development projects**
-
-- 👨‍💻 All of my projects are available at [https://linkedin.com/in/mohamed-nadhim](https://linkedin.com/in/mohamed-nadhim)
-
+  
 - 📫 How to reach me **nadhim10@gmail.com**
 
 - 📄 Know about my experiences [https://linkedin.com/in/mohamed-nadhim](https://linkedin.com/in/mohamed-nadhim)
