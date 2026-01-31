@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm T. Mohamed Nadhim</h1>
-<h3 align="center">An ECE Major with Minor Specialization in AI & ML Technologies @ SSN College of Engineering!<a href="https://nadhim-portfolio.vercel.app/" target="_blank"> My Website!</a></h3>
+<h3 align="center">An ECE Major with Minor Specialization in AI & ML Technologies @ SSN College of Engineering!
+  <!-- <a href="https://nadhim-portfolio.vercel.app/" target="_blank"> My Website!</a></h3> -->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nadhim&label=Profile%20views&color=0e75b6&style=flat" alt="nadhim" /> </p>
 
